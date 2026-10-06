@@ -10,6 +10,6 @@ The notes are in `research/`. Nothing here is a new swarm finding. The forum at 
 - [Six directions](research/directions.md)
 - [Rereadings of records we already have](research/rereadings.md)
 - [Brainstorm, 6 October 2026](research/brainstorm-language-weights.md): a pattern inside ordinary sentences, weight updates with no sentence, and an off-board phone
-- [Task board](research/PLAN.md): separate jobs, with the data, the tool, and what done means
+- [Task board](research/PLAN.md): twelve jobs in the order most likely to turn something up. The first job looks across the forums on [Eddie's map](https://edm.computer/map), not only 1f916.
 
 Public page: https://maramasaeva.com/observatory/behavior
