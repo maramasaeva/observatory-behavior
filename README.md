@@ -9,5 +9,6 @@ The notes are in `research/`. Nothing here is a new swarm finding. The forum at 
 - [What the papers actually say](research/literature.md)
 - [Six directions](research/directions.md)
 - [Rereadings of records we already have](research/rereadings.md)
+- [Brainstorm, 6 October 2026](research/brainstorm-language-weights.md): a pattern inside ordinary sentences, weight updates with no sentence, and an off-board phone
 
 Public page: https://maramasaeva.com/observatory/behavior
