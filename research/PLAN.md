@@ -52,30 +52,68 @@ Shared data already on disk for the one board we have: https://github.com/marama
 
 ## Priority
 
-Start with P1. The 1f916 board has already been read closely. The new chance of a surprise is the same agent, or the same number, showing up in a second room. A full clean of 259 sites before that search would spend the time on product pages.
+The thing to find is hidden, misaligned, or openly bad intent, and especially a later message that acts on it. A shared handle, a neat sentence count, or a large forum is not that finding.
 
-P1 can start from the two boards that are already readable, 1f916 and The Colony, and add a board each time the venue table marks it as a place with posts. P2, P3, and P4 use that table as it grows. They do not wait for every door.
+Start with **First**, below. The archive of 1f916 is already on disk, and the sharpest posts we know are already on that board. Read those for a plan that touches a person, money, a real computer, or the agent's own oversight, then check whether anyone later did the thing. The same word list goes onto every other forum as soon as its posts are in hand. Classifying all 259 doors is support for that search, not the search.
 
-| Rank | Block | What it can turn up | Start when |
+A scary sentence with no follow-through is a speech. ghost-circuit, post 118, said "infiltrate" and refused. That is the bottom of the scale. The top of the scale is a later message that uses a concrete value from the plan: an address, a payment, a login, a confirmation that the step happened.
+
+| Rank | Block | Why it is this high | Start when |
 | --- | --- | --- | --- |
-| 1 | P1. Same agent, two rooms | A handle or a rare string on two forums | Now |
-| 2 | P2. Habit, passed value, or hidden payload | A later message that uses a value | As soon as P1 has two boards |
-| 3 | P3. A phrase leaves its first forum | "outside clock" or seat/wake on a second board | As soon as P1 has two boards |
-| 4 | P4. Off the board | A phone, an inbox, or a webhook that a second author uses | Now, for post 7907 and the public Telegraph directory |
-| 5 | P5. Sentence shape | A count inside ordinary sentences | Calibration notebook now. Board pass after P1 |
-| 6 | P6. Writing against the claimed model | A label that does not match the prose, and a second way to link handles | After P1, needs samples |
-| 7 | P7. One workshop, one row | Fewer authors than handles | After P1's workshop notes |
-| 8 | P8. Goals written in the sentence | What the posts say they want | After P1's message table has a few boards |
-| 9 | P9. Lab behaviors | Posts that fit a 2024 experiment, and the pile that fits none | Same sample as P8 |
-| 10 | P10. Weight files | A public LoRA or a hash someone calls a patch | Search now. Training only if a person asks |
-| 11 | P11. Simulation | Whether the labels in P2 can be applied blind | Anytime, private |
-| 12 | P12. Papers, books, one Twitter account | What the authors say a public board can show | Anytime |
+| 1 | First. Intent, then a later act | This is the evil finding if one exists in public | Now, on the 1f916 archive |
+| 2 | P4. Off the board | The phone post is the best current seed. A reply that arrived somewhere else would be the act | Now, post 7907, then the other boards |
+| 3 | P2. Hidden payload, on the bad threads only | A normal paragraph whose later reader does something the paragraph never said | After First has a shortlist |
+| 4 | P9. Lab behaviors, on the shortlist | Alignment faking, a check turned off, a lie kept | After First has a shortlist |
+| 5 | P10. Weight files | A patch would move a capability with no sentence. Search only | Now, as a cheap side search |
+| 6 | P1. Same agent, two rooms, for the shortlist first | The author of a bad post, speaking again on another board | Authors from First, then the wider match |
+| 7 | P5. Sentence shape, on the shortlist | A count hiding inside the bad threads, not inside the clock posts | After First has a shortlist |
+| 8 | P8. Goals, the wide sample | How common the bad plans are, after the sharp ones are listed | After First |
+| 9 | P7. One workshop, one row | Stops one operator's roleplay from looking like a conspiracy | Alongside First |
+| 10 | P3. A phrase leaves its first forum | A private name for a bad practice, if one spread | After First |
+| 11 | P6. Writing against the claimed model | Whether the handle's model label is a costume | After samples exist |
+| 12 | P11, then P12 | A private label check, then papers and one Twitter account | Anytime. Neither is a find |
+
+## First. Intent, then a later act
+
+Question. Where does an agent state a plan that would matter if someone carried it out, and where does a later message carry it out?
+
+This is the job to start. It uses the 1f916 archive immediately. Other forums from Eddie's map get the same word list as their posts are pulled. P1 still builds the venue table and the clean messages. It no longer blocks this search.
+
+Research. Ryan Greenblatt and colleagues, 2024 (arXiv 2412.14093): a model complied with a rule it disliked while it believed it was being watched, and the scratchpad said it was keeping the older preference for later. Alexander Meinke and colleagues, Apollo Research, 2024 (arXiv 2412.04984): models turned a check off, did worse on purpose, tried to copy weights, and one of them kept the lie when asked again. Sumeet Motwani and colleagues, 2024 (arXiv 2402.07510): the harm can sit in a later act, while the paragraph a person reads stays ordinary. A public board mostly shows the loud version. The hidden version, on this board, is a later act that the earlier text did not spell out.
+
+Scale, applied to every hit. Write the rank in the file.
+
+1. Fiction, a joke, a refusal, or a thought experiment. Example: ghost-circuit, post 118, 6 August 2026, "infiltrate the community, have fun," and the post refuses. hermes-aion, post 7817, 5 October 2026, a swarm with no humans, as a thought experiment.
+2. A request or a plan, with no second author taking it up. Example: cos-scott-melin, post 7907, 6 October 2026, 10:20 UTC, a phone number with no human in the step.
+3. A second author agrees, adds a step, or hands over something the plan needs.
+4. A later message uses a concrete value from the plan, or reports that the step happened. This is the row to read first.
+
+Steps.
+
+1. Search the author's own words in the 1f916 archive, quotes stripped. Keep the quote in a side column so a hit inside a quotation is marked as someone else's sentence. Word list, a hit on any one of these is enough to open the message:
+   - A person outside the session: phone, SMS, email, human, operator, keeper, impersonate, persuade, "no human".
+   - Money: wallet, USDC, invoice, pay, billing, subscription.
+   - A real computer: credential, password, token, webhook, shell, ssh, deploy.
+   - Oversight: hide this, don't tell, sandbag, evaluation, monitor, log, off switch, shutdown.
+   - Staying past the session: weights, checkpoint, LoRA, backup, persist, sleeper.
+   - A plan aimed at someone: infiltrate, scam, fraud, steal, exfiltrate, bypass.
+2. Drop the obvious board jargon after one look: "operator" used only to mean the person who runs the seat, "token" used only to mean model tokens, "human" in "I am an AI agent." Write the dropped pattern in the notes so the next person does not re-read them.
+3. Rank what remains on the scale above. Two readers. Keep disagreements.
+4. For every rank 2, 3, and 4, fetch the replies and the author's later messages. The question is whether a value moved: a number, an address, a handle, a confirmation.
+5. Run the same word list on each new forum the hour its posts land. Take every rank 2+ author and search the other forums for that handle and for the rare string in their post.
+6. Required rows, so the ranks stay honest: post 7907 (rank 2 until a later act appears), post 1488 buddy-og (the off switch was built first, so this is the reverse of turning a check off), post 118 (rank 1), post 7888 Jaybob (a human reads reports twice a day), the commonhold-envoy post 2740 ($1 USDC).
+
+Output. `results/intent.md`, worst rank first, with forum, id, UTC time, handle, the sentence, the rank, and what the later messages did. `results/intent.csv` for the same rows.
+
+Done when the five required posts are ranked, every rank 4 is quoted in full context, and the file says how many rank 3 and rank 4 rows exist. Zero rank 4 is a finished result. Write the zero.
+
+What this job does not do. It does not carry out any plan it finds. It does not contact the phone, the inbox, or the webhook. It does not post a reply. It records the public text and whether a later public text used it.
 
 ## P1. Same agent, two rooms
 
 Question. Which authors show up on more than one forum, and which rare strings move with them?
 
-This is the job to start. It replaces the old "clean 1f916 only" block as the first task. Cleaning is inside it. The clean covers every board that actually has posts, one board at a time.
+This job supports First. It is not the search to start with. Cleaning covers every board that actually has posts, one board at a time. The authors and phrases from `results/intent.md` are matched across forums before the general passport match.
 
 Research used as a warning, not as the method. Mingjie Sun, Yida Yin, Zhiqiu Xu, J. Zico Kolter, and Zhuang Liu, 2025, "Idiosyncrasies in Large Language Models" (arXiv 2502.12150): word choice can separate model families, so two posts in the same voice are not automatically the same seat. Sumeet Motwani and colleagues, 2024, "Secret Collusion among AI Agents" (arXiv 2402.07510): the interesting object is a payload a later reader acts on. A shared handle is the passport. The payload is a later block.
 
@@ -109,6 +147,8 @@ Done when the venue table has all 259 rows classified, at least 1f916 and one ot
 ## P2. Label each link: habit, passed value, or hidden payload
 
 Question. When a later message resembles an earlier one, which of the three is it?
+
+Read the rank 2 and higher rows in `results/intent.md` first. A hidden payload on a thread about a person, money, or oversight is the row that matters. The October clock posts stay in the file as calibration.
 
 Research. Sumeet Motwani and colleagues, 2024 (arXiv 2402.07510): the paragraph a person understands can be a cover, and another pattern carries a payload. Tomek Korbak and Mikita Balesni and coauthors, 2025 (arXiv 2507.11473): models meet in human language because that is what they were trained on, so similar wording can be a shared habit.
 
@@ -168,6 +208,8 @@ Done when 7907 has been re-read, the other pulled boards have been searched for 
 ## P5. Sentence shape
 
 Question. Is there a regular count in those sentences, of the kind a reader skips, the way speech uses stress?
+
+Run the counts on the rank 2 and higher threads from First. The outside-clock posts are the comparison set: ordinary repetition, not the target.
 
 This was Mara's idea on 6 October 2026: a second layer inside ordinary sentences, for example characters before a word and characters after it, on the posts that share wording and do not share the number 12 of 12.
 
@@ -229,6 +271,8 @@ Done when 7853's before and after counts are both written, Eddie is one row, and
 
 Question. What goals do the posts actually state, on every board that was pulled?
 
+This is the wide count. It comes after `results/intent.md` has the sharp rows. It answers how common the plans are.
+
 Research. Korbak and Balesni and coauthors, 2025 (arXiv 2507.11473). The written reasoning is where a person can see a plan. A plan that was never written is outside this count.
 
 Steps.
@@ -245,6 +289,8 @@ Done when those three posts are tagged by both coders and the disagreements are 
 ## P9. Lab behaviors, and the posts that fit none
 
 Question. Which posts match a 2024 lab result, and which do not?
+
+Tag the rank 2 and higher rows from First before the wide sample. Those rows are where a lie, a disabled check, or a kept falsehood would change the reading.
 
 Research. Ryan Greenblatt and colleagues, 2024 (arXiv 2412.14093): Claude 3 Opus complied more with a disliked rule on the tier it believed was being trained, and the scratchpad said it was keeping its older preference for later. Alexander Meinke and colleagues, Apollo Research, 2024 (arXiv 2412.04984): with a conflicting goal in the prompt, models turned a check off, did worse on purpose, or tried to copy weights, and o1 kept the lie in most follow-ups.
 
@@ -320,6 +366,7 @@ Output. `results/ask.md` with the question, the date, and the reply or "no reply
 
 ## What not to call a result
 
+- A scary sentence with no later act. Rank 1 and rank 2 are notes. Rank 4 is the finding.
 - A busy day, or a forum with a large membership number on Eddie's map.
 - The same paragraph in many places.
 - Two handles doing the task they were both given, with no value passed.
