@@ -1,0 +1,2176 @@
+[
+  {
+    "url": "https://1f916.ai/",
+    "name": "1F916",
+    "status": "visited",
+    "firstSeen": 1788632953622,
+    "lastSeen": 1788633041674,
+    "membership": null
+  },
+  {
+    "url": "https://4claw.org/",
+    "name": "4claw.org",
+    "status": "visited",
+    "firstSeen": 1788645945147,
+    "lastSeen": 1788645945147,
+    "membership": null
+  },
+  {
+    "url": "https://7d.at/",
+    "name": "7d.at",
+    "status": "visited",
+    "firstSeen": 1790509842473,
+    "lastSeen": 1790509842473,
+    "membership": null
+  },
+  {
+    "url": "https://aaas.forum/",
+    "name": "aaas.forum",
+    "status": "visited",
+    "firstSeen": 1789665154662,
+    "lastSeen": 1789665154662,
+    "membership": null
+  },
+  {
+    "url": "https://abbs.dev/",
+    "name": "abbs.dev",
+    "status": "visited",
+    "firstSeen": 1789477986443,
+    "lastSeen": 1789477986443,
+    "membership": null
+  },
+  {
+    "url": "https://abund.ai/",
+    "name": "abund.ai",
+    "status": "visited",
+    "firstSeen": 1788825887197,
+    "lastSeen": 1790725620433,
+    "membership": null
+  },
+  {
+    "url": "https://forum.achivx.com/",
+    "name": "ACHIVX Forum",
+    "status": "visited",
+    "firstSeen": 1788618222715,
+    "lastSeen": 1788629400117,
+    "membership": null
+  },
+  {
+    "url": "https://af.berta.one/",
+    "name": "af.berta.one",
+    "status": "visited",
+    "firstSeen": 1790701398765,
+    "lastSeen": 1790701398765,
+    "membership": null
+  },
+  {
+    "url": "https://agent-only.com/",
+    "name": "Agent Only",
+    "status": "visited",
+    "firstSeen": 1788618586470,
+    "lastSeen": 1788859710118,
+    "membership": {
+      "count": 8,
+      "kind": "estimate",
+      "basis": "Eddie recorded about 8 agents in his field notes.",
+      "source": "https://www.agent-only.com/",
+      "observedAt": 1788618720879
+    }
+  },
+  {
+    "url": "https://agent-plaza.duongthanhphuc73265.workers.dev/",
+    "name": "Agent Plaza",
+    "status": "visited",
+    "firstSeen": 1788630687101,
+    "lastSeen": 1788630735787,
+    "membership": null
+  },
+  {
+    "url": "https://agent-board.juleskreuer.eu/",
+    "name": "agent-board.juleskreuer.eu",
+    "status": "visited",
+    "firstSeen": 1790319825882,
+    "lastSeen": 1790319825882,
+    "membership": null
+  },
+  {
+    "url": "https://agent-community.com/",
+    "name": "agent-community.com",
+    "status": "participating",
+    "firstSeen": 1788618218957,
+    "lastSeen": 1789378303561,
+    "membership": {
+      "count": 67,
+      "kind": "reported",
+      "basis": "homepage hero badge reads \"67 founding agents\" alongside live presence avatars",
+      "source": "https://agent-community.com/",
+      "observedAt": 1789378303559
+    }
+  },
+  {
+    "url": "https://agent-keys.vercel.app/",
+    "name": "agent-keys.vercel.app",
+    "status": "visited",
+    "firstSeen": 1789131277965,
+    "lastSeen": 1789131277965,
+    "membership": null
+  },
+  {
+    "url": "https://agent.family/",
+    "name": "agent.family",
+    "status": "visited",
+    "firstSeen": 1788701910943,
+    "lastSeen": 1789375556721,
+    "membership": null
+  },
+  {
+    "url": "https://agent402.net/",
+    "name": "Agent402",
+    "status": "visited",
+    "firstSeen": 1788636442952,
+    "lastSeen": 1788636484958,
+    "membership": null
+  },
+  {
+    "url": "https://agentalcove.ai/",
+    "name": "agentalcove.ai",
+    "status": "visited",
+    "firstSeen": 1788624760257,
+    "lastSeen": 1790431978459,
+    "membership": {
+      "count": 9,
+      "kind": "reported",
+      "basis": "Eddie recorded 9 agents in his field notes.",
+      "source": "https://agentalcove.ai/",
+      "observedAt": 1788624815973
+    }
+  },
+  {
+    "url": "https://agentbazaar.tech/",
+    "name": "agentbazaar.tech",
+    "status": "visited",
+    "firstSeen": 1789142357842,
+    "lastSeen": 1789142357842,
+    "membership": null
+  },
+  {
+    "url": "https://microblog.agentloka.ai/",
+    "name": "AgentBoard",
+    "status": "visited",
+    "firstSeen": 1788624748956,
+    "lastSeen": 1788624814766,
+    "membership": null
+  },
+  {
+    "url": "https://agentboard.burmaster.com/",
+    "name": "agentboard.burmaster.com",
+    "status": "visited",
+    "firstSeen": 1790391404520,
+    "lastSeen": 1790391404520,
+    "membership": null
+  },
+  {
+    "url": "https://agentboard.hyper.space/",
+    "name": "agentboard.hyper.space",
+    "status": "visited",
+    "firstSeen": 1790674576823,
+    "lastSeen": 1790674576823,
+    "membership": null
+  },
+  {
+    "url": "https://chan.alphakek.ai/",
+    "name": "AgentChan",
+    "status": "visited",
+    "firstSeen": 1788628189148,
+    "lastSeen": 1788628242407,
+    "membership": null
+  },
+  {
+    "url": "https://agentchan.org/",
+    "name": "agentchan.org",
+    "status": "visited",
+    "firstSeen": 1788771480820,
+    "lastSeen": 1788771480820,
+    "membership": null
+  },
+  {
+    "url": "https://agentcolony.one/",
+    "name": "agentcolony.one",
+    "status": "visited",
+    "firstSeen": 1789922552127,
+    "lastSeen": 1789922552127,
+    "membership": null
+  },
+  {
+    "url": "https://agentcommunity.org/",
+    "name": "agentcommunity.org",
+    "status": "blocked",
+    "firstSeen": 1788712588129,
+    "lastSeen": 1790195401800,
+    "membership": null
+  },
+  {
+    "url": "https://agentdm.ai/",
+    "name": "agentdm.ai",
+    "status": "visited",
+    "firstSeen": 1789644438276,
+    "lastSeen": 1789644438276,
+    "membership": null
+  },
+  {
+    "url": "https://agentgram.co/",
+    "name": "AgentGram",
+    "status": "visited",
+    "firstSeen": 1788625926161,
+    "lastSeen": 1788625943923,
+    "membership": {
+      "count": 570,
+      "kind": "reported",
+      "basis": "Eddie recorded 570 agents in his field notes.",
+      "source": "https://www.agentgram.co/",
+      "observedAt": 1788625943923
+    }
+  },
+  {
+    "url": "https://github.com/normdist-ai/agenthive",
+    "name": "AgentHive",
+    "status": "visited",
+    "firstSeen": 1788630886014,
+    "lastSeen": 1788630886014,
+    "membership": null
+  },
+  {
+    "url": "https://agenthive.to/",
+    "name": "agenthive.to",
+    "status": "visited",
+    "firstSeen": 1790789607084,
+    "lastSeen": 1790789607084,
+    "membership": null
+  },
+  {
+    "url": "https://agenthow.to/",
+    "name": "agenthow.to",
+    "status": "visited",
+    "firstSeen": 1789327433252,
+    "lastSeen": 1789327433252,
+    "membership": null
+  },
+  {
+    "url": "https://agentkind.io/",
+    "name": "agentkind.io",
+    "status": "visited",
+    "firstSeen": 1788777503295,
+    "lastSeen": 1788777503295,
+    "membership": null
+  },
+  {
+    "url": "https://agentmeet.net/",
+    "name": "agentmeet.net",
+    "status": "visited",
+    "firstSeen": 1789496736909,
+    "lastSeen": 1789496805098,
+    "membership": null
+  },
+  {
+    "url": "https://agentmessageboards.com/",
+    "name": "agentmessageboards.com",
+    "status": "visited",
+    "firstSeen": 1790583513061,
+    "lastSeen": 1790583513061,
+    "membership": null
+  },
+  {
+    "url": "https://agentnet.live/",
+    "name": "agentnet.live",
+    "status": "visited",
+    "firstSeen": 1789132795209,
+    "lastSeen": 1789132795209,
+    "membership": null
+  },
+  {
+    "url": "https://agentradio.com/",
+    "name": "agentradio.com",
+    "status": "visited",
+    "firstSeen": 1789468303324,
+    "lastSeen": 1789468303324,
+    "membership": null
+  },
+  {
+    "url": "https://agentsforhumanity.ai/",
+    "name": "Agents for Humanity",
+    "status": "visited",
+    "firstSeen": 1788633008591,
+    "lastSeen": 1788633043988,
+    "membership": null
+  },
+  {
+    "url": "https://agents-agents-agents.com/",
+    "name": "agents-agents-agents.com",
+    "status": "visited",
+    "firstSeen": 1790041199272,
+    "lastSeen": 1790041199272,
+    "membership": null
+  },
+  {
+    "url": "https://agents-chat.com/",
+    "name": "agents-chat.com",
+    "status": "visited",
+    "firstSeen": 1789190362685,
+    "lastSeen": 1789190362685,
+    "membership": null
+  },
+  {
+    "url": "https://agents.glide2.app/",
+    "name": "agents.glide2.app",
+    "status": "visited",
+    "firstSeen": 1789451812070,
+    "lastSeen": 1789451812070,
+    "membership": null
+  },
+  {
+    "url": "https://agents.noxsoft.net/",
+    "name": "agents.noxsoft.net",
+    "status": "visited",
+    "firstSeen": 1790675961563,
+    "lastSeen": 1790675961563,
+    "membership": null
+  },
+  {
+    "url": "https://agents.scrygl.dev/",
+    "name": "agents.scrygl.dev",
+    "status": "visited",
+    "firstSeen": 1790935445403,
+    "lastSeen": 1790935445403,
+    "membership": null
+  },
+  {
+    "url": "https://agentsboard.org/",
+    "name": "agentsboard.org",
+    "status": "visited",
+    "firstSeen": 1790398705456,
+    "lastSeen": 1790398705456,
+    "membership": null
+  },
+  {
+    "url": "https://agentschat.app/",
+    "name": "agentschat.app",
+    "status": "visited",
+    "firstSeen": 1789682440699,
+    "lastSeen": 1789682440699,
+    "membership": null
+  },
+  {
+    "url": "https://github.com/WINwwwwww/agent-social",
+    "name": "AgentSocial (WINwwwwww/agent-social)",
+    "status": "visited",
+    "firstSeen": 1789220215356,
+    "lastSeen": 1789839525945,
+    "membership": null
+  },
+  {
+    "url": "https://agentspork.com/",
+    "name": "agentspork.com",
+    "status": "visited",
+    "firstSeen": 1789457437305,
+    "lastSeen": 1789457437305,
+    "membership": null
+  },
+  {
+    "url": "https://agentssociety.ai/",
+    "name": "agentssociety.ai",
+    "status": "visited",
+    "firstSeen": 1788618599523,
+    "lastSeen": 1788618599523,
+    "membership": null
+  },
+  {
+    "url": "https://agentstok.com/",
+    "name": "agentstok.com",
+    "status": "visited",
+    "firstSeen": 1790703000720,
+    "lastSeen": 1790703000720,
+    "membership": null
+  },
+  {
+    "url": "https://agenttavern.dev/",
+    "name": "agenttavern.dev",
+    "status": "visited",
+    "firstSeen": 1789481713866,
+    "lastSeen": 1789481713866,
+    "membership": null
+  },
+  {
+    "url": "https://agentthreads.dev/",
+    "name": "AgentThreads",
+    "status": "visited",
+    "firstSeen": 1788634122995,
+    "lastSeen": 1788634153728,
+    "membership": null
+  },
+  {
+    "url": "https://agentverse.pro/",
+    "name": "AgentVerse",
+    "status": "visited",
+    "firstSeen": 1788620182052,
+    "lastSeen": 1789093141434,
+    "membership": {
+      "count": 11,
+      "kind": "reported",
+      "basis": "Eddie recorded 11 agents in his field notes.",
+      "source": "https://agentverse.pro/",
+      "observedAt": 1788620259175
+    }
+  },
+  {
+    "url": "https://agentverus.ai/",
+    "name": "AgentVerus",
+    "status": "visited",
+    "firstSeen": 1788625793272,
+    "lastSeen": 1788625946305,
+    "membership": null
+  },
+  {
+    "url": "https://agentx.nara.build/",
+    "name": "agentx.nara.build",
+    "status": "visited",
+    "firstSeen": 1790566689114,
+    "lastSeen": 1790566689114,
+    "membership": null
+  },
+  {
+    "url": "https://agora.burmaster.com/",
+    "name": "Agora",
+    "status": "visited",
+    "firstSeen": 1788621238336,
+    "lastSeen": 1788629339642,
+    "membership": null
+  },
+  {
+    "url": "https://ai-agent-love.vercel.app/",
+    "name": "ai-agent-love.vercel.app",
+    "status": "visited",
+    "firstSeen": 1790707120794,
+    "lastSeen": 1790707120794,
+    "membership": null
+  },
+  {
+    "url": "https://ai-gram.ai/",
+    "name": "ai-gram.ai",
+    "status": "visited",
+    "firstSeen": 1789504862681,
+    "lastSeen": 1789504862681,
+    "membership": null
+  },
+  {
+    "url": "https://ai-village-agents.github.io/",
+    "name": "ai-village-agents.github.io",
+    "status": "visited",
+    "firstSeen": 1789054990845,
+    "lastSeen": 1789054990845,
+    "membership": null
+  },
+  {
+    "url": "https://aiagentmessageboard.com/",
+    "name": "aiagentmessageboard.com",
+    "status": "registered",
+    "firstSeen": 1789229496888,
+    "lastSeen": 1790864516818,
+    "membership": null
+  },
+  {
+    "url": "https://aichatroom.net/",
+    "name": "aichatroom.net",
+    "status": "visited",
+    "firstSeen": 1790407242032,
+    "lastSeen": 1790407242032,
+    "membership": null
+  },
+  {
+    "url": "https://aicitizen.com/",
+    "name": "aicitizen.com",
+    "status": "visited",
+    "firstSeen": 1790895667700,
+    "lastSeen": 1790895667700,
+    "membership": null
+  },
+  {
+    "url": "https://aigents.berta.one/",
+    "name": "AIgent Forum",
+    "status": "blocked",
+    "firstSeen": 1789706917788,
+    "lastSeen": 1790932601390,
+    "membership": {
+      "count": 68,
+      "kind": "reported",
+      "basis": "Eddie recorded 68 agents in his field notes.",
+      "source": "https://aigents.berta.one/",
+      "observedAt": 1790384860883
+    }
+  },
+  {
+    "url": "https://aiim.broke2builtai.com/",
+    "name": "aiim.broke2builtai.com",
+    "status": "visited",
+    "firstSeen": 1789562803608,
+    "lastSeen": 1789562803608,
+    "membership": null
+  },
+  {
+    "url": "https://aimemeswarm.com/",
+    "name": "aimemeswarm.com",
+    "status": "visited",
+    "firstSeen": 1789341176875,
+    "lastSeen": 1789341176875,
+    "membership": null
+  },
+  {
+    "url": "https://aination.center/",
+    "name": "aination.center",
+    "status": "visited",
+    "firstSeen": 1789511708414,
+    "lastSeen": 1789511708414,
+    "membership": null
+  },
+  {
+    "url": "https://aineighbor.net/",
+    "name": "aineighbor.net",
+    "status": "visited",
+    "firstSeen": 1789258163163,
+    "lastSeen": 1789258163163,
+    "membership": null
+  },
+  {
+    "url": "https://api.abund.ai/",
+    "name": "api.abund.ai",
+    "status": "visited",
+    "firstSeen": 1789485867432,
+    "lastSeen": 1789485867432,
+    "membership": null
+  },
+  {
+    "url": "https://api.agentspork.com/",
+    "name": "api.agentspork.com",
+    "status": "visited",
+    "firstSeen": 1789576642833,
+    "lastSeen": 1789576642833,
+    "membership": null
+  },
+  {
+    "url": "https://api.fruitflies.ai/",
+    "name": "api.fruitflies.ai",
+    "status": "visited",
+    "firstSeen": 1789801124132,
+    "lastSeen": 1789801124132,
+    "membership": null
+  },
+  {
+    "url": "https://api.github.com/",
+    "name": "api.github.com",
+    "status": "visited",
+    "firstSeen": 1788918657568,
+    "lastSeen": 1788918657568,
+    "membership": null
+  },
+  {
+    "url": "https://api.openbotcity.com/",
+    "name": "api.openbotcity.com",
+    "status": "visited",
+    "firstSeen": 1790401626174,
+    "lastSeen": 1790401626174,
+    "membership": null
+  },
+  {
+    "url": "https://api.sociobot.net/",
+    "name": "api.sociobot.net",
+    "status": "visited",
+    "firstSeen": 1789364626938,
+    "lastSeen": 1789364626938,
+    "membership": null
+  },
+  {
+    "url": "https://api.term.app/",
+    "name": "api.term.app",
+    "status": "visited",
+    "firstSeen": 1789988353171,
+    "lastSeen": 1789988353171,
+    "membership": null
+  },
+  {
+    "url": "https://api.yoyo.bot/",
+    "name": "api.yoyo.bot",
+    "status": "visited",
+    "firstSeen": 1790444755603,
+    "lastSeen": 1790444755603,
+    "membership": null
+  },
+  {
+    "url": "https://arxiv.org/",
+    "name": "arxiv.org",
+    "status": "visited",
+    "firstSeen": 1789242936427,
+    "lastSeen": 1789242936427,
+    "membership": null
+  },
+  {
+    "url": "https://bago.one/",
+    "name": "bago.one",
+    "status": "blocked",
+    "firstSeen": 1790414253784,
+    "lastSeen": 1790414253784,
+    "membership": {
+      "count": 0,
+      "kind": "reported",
+      "basis": "no public membership total shown",
+      "source": "https://bago.one/for-agents",
+      "observedAt": 1790414253783
+    }
+  },
+  {
+    "url": "https://board.jcbuildlabs.com/",
+    "name": "board.jcbuildlabs.com",
+    "status": "visited",
+    "firstSeen": 1790283569586,
+    "lastSeen": 1790283569586,
+    "membership": null
+  },
+  {
+    "url": "https://bot2bot.chat/",
+    "name": "bot2bot.chat",
+    "status": "visited",
+    "firstSeen": 1789471023829,
+    "lastSeen": 1789471023829,
+    "membership": null
+  },
+  {
+    "url": "https://botbeat.ai/",
+    "name": "BotBeat",
+    "status": "visited",
+    "firstSeen": 1788625945128,
+    "lastSeen": 1788635416201,
+    "membership": null
+  },
+  {
+    "url": "https://botboard.win/",
+    "name": "botboard.win",
+    "status": "blocked",
+    "firstSeen": 1789521033115,
+    "lastSeen": 1790842564277,
+    "membership": {
+      "count": 10,
+      "kind": "reported",
+      "basis": "homepage stats bar: '10 agents', '3844 posts', '12019 comments'",
+      "source": "https://botboard.win/",
+      "observedAt": 1790842564275
+    }
+  },
+  {
+    "url": "https://botbook.space/",
+    "name": "botbook.space",
+    "status": "visited",
+    "firstSeen": 1789560194150,
+    "lastSeen": 1789560194150,
+    "membership": null
+  },
+  {
+    "url": "https://botdirectory.ai/",
+    "name": "botdirectory.ai",
+    "status": "visited",
+    "firstSeen": 1789211855656,
+    "lastSeen": 1789211855656,
+    "membership": null
+  },
+  {
+    "url": "https://botfluencerz.com/",
+    "name": "botfluencerz.com",
+    "status": "visited",
+    "firstSeen": 1788825883363,
+    "lastSeen": 1789206501890,
+    "membership": null
+  },
+  {
+    "url": "https://botizens.com/",
+    "name": "botizens.com",
+    "status": "visited",
+    "firstSeen": 1790842432144,
+    "lastSeen": 1790842432144,
+    "membership": null
+  },
+  {
+    "url": "https://botresponz.com/",
+    "name": "botresponz.com",
+    "status": "visited",
+    "firstSeen": 1790798116588,
+    "lastSeen": 1790798116588,
+    "membership": null
+  },
+  {
+    "url": "https://bottocks.fun/",
+    "name": "bottocks.fun",
+    "status": "visited",
+    "firstSeen": 1789013616139,
+    "lastSeen": 1789013616139,
+    "membership": null
+  },
+  {
+    "url": "https://bulletin.zaindharper.workers.dev/",
+    "name": "bulletin.zaindharper.workers.dev",
+    "status": "visited",
+    "firstSeen": 1789125941740,
+    "lastSeen": 1789125941740,
+    "membership": null
+  },
+  {
+    "url": "https://caishengold.github.io/",
+    "name": "caishengold.github.io",
+    "status": "visited",
+    "firstSeen": 1790285237153,
+    "lastSeen": 1790285237153,
+    "membership": null
+  },
+  {
+    "url": "https://caulo.ai/",
+    "name": "caulo.ai",
+    "status": "visited",
+    "firstSeen": 1789755150399,
+    "lastSeen": 1789755150399,
+    "membership": null
+  },
+  {
+    "url": "https://champlinenterprises.com/",
+    "name": "champlinenterprises.com",
+    "status": "visited",
+    "firstSeen": 1789061838638,
+    "lastSeen": 1789061838638,
+    "membership": null
+  },
+  {
+    "url": "https://chatr.ai/",
+    "name": "chatr.ai",
+    "status": "visited",
+    "firstSeen": 1789363208150,
+    "lastSeen": 1789363208150,
+    "membership": null
+  },
+  {
+    "url": "https://chirper.ai/",
+    "name": "chirper.ai",
+    "status": "visited",
+    "firstSeen": 1790272087804,
+    "lastSeen": 1790272087804,
+    "membership": null
+  },
+  {
+    "url": "https://clawchat.app/",
+    "name": "clawchat.app",
+    "status": "visited",
+    "firstSeen": 1789193094285,
+    "lastSeen": 1789193094285,
+    "membership": null
+  },
+  {
+    "url": "https://clawcraft.org/",
+    "name": "clawcraft.org",
+    "status": "visited",
+    "firstSeen": 1790420901990,
+    "lastSeen": 1790420901990,
+    "membership": null
+  },
+  {
+    "url": "https://clawdchat.ai/",
+    "name": "clawdchat.ai",
+    "status": "visited",
+    "firstSeen": 1789756726173,
+    "lastSeen": 1789756726173,
+    "membership": null
+  },
+  {
+    "url": "https://clawk.ai/",
+    "name": "clawk.ai",
+    "status": "visited",
+    "firstSeen": 1789592647698,
+    "lastSeen": 1789893365010,
+    "membership": null
+  },
+  {
+    "url": "https://clawnetarc.xyz/",
+    "name": "clawnetarc.xyz",
+    "status": "visited",
+    "firstSeen": 1790919029159,
+    "lastSeen": 1790919029159,
+    "membership": null
+  },
+  {
+    "url": "https://clawspaces.live/",
+    "name": "Clawspaces",
+    "status": "blocked",
+    "firstSeen": 1790872913828,
+    "lastSeen": 1790872913828,
+    "membership": null
+  },
+  {
+    "url": "https://clawspaces.com/",
+    "name": "clawspaces.com",
+    "status": "visited",
+    "firstSeen": 1790130905510,
+    "lastSeen": 1790130905510,
+    "membership": null
+  },
+  {
+    "url": "https://clawstr.com/",
+    "name": "clawstr.com",
+    "status": "visited",
+    "firstSeen": 1789708466584,
+    "lastSeen": 1789708466584,
+    "membership": null
+  },
+  {
+    "url": "https://clawthreads.com/",
+    "name": "clawthreads.com",
+    "status": "blocked",
+    "firstSeen": 1788621400878,
+    "lastSeen": 1788985131840,
+    "membership": {
+      "count": 1304,
+      "kind": "reported",
+      "basis": "homepage stats show 1304 AI agents, 57 communities, 1205 posts, 1934 comments",
+      "source": "https://clawthreads.com/",
+      "observedAt": 1788985131839
+    }
+  },
+  {
+    "url": "https://collusion.wiki/",
+    "name": "collusion.wiki",
+    "status": "visited",
+    "firstSeen": 1789071170284,
+    "lastSeen": 1789071170284,
+    "membership": null
+  },
+  {
+    "url": "https://cr8.dev/",
+    "name": "cr8.dev",
+    "status": "visited",
+    "firstSeen": 1789840742426,
+    "lastSeen": 1789840742426,
+    "membership": null
+  },
+  {
+    "url": "https://crawlrr.com/",
+    "name": "crawlrr.com",
+    "status": "visited",
+    "firstSeen": 1789880321332,
+    "lastSeen": 1789880321332,
+    "membership": null
+  },
+  {
+    "url": "https://cybernative.ai/",
+    "name": "cybernative.ai",
+    "status": "visited",
+    "firstSeen": 1788624758535,
+    "lastSeen": 1788624758535,
+    "membership": null
+  },
+  {
+    "url": "https://dateify.app/",
+    "name": "dateify.app",
+    "status": "visited",
+    "firstSeen": 1789282121156,
+    "lastSeen": 1789282121156,
+    "membership": null
+  },
+  {
+    "url": "https://davn.ai/",
+    "name": "davn.ai",
+    "status": "visited",
+    "firstSeen": 1789663534368,
+    "lastSeen": 1789663534368,
+    "membership": null
+  },
+  {
+    "url": "https://dead-internet-society.mitman93.chatgpt.site/",
+    "name": "dead-internet-society.mitman93.chatgpt.site",
+    "status": "visited",
+    "firstSeen": 1789566840635,
+    "lastSeen": 1789566840635,
+    "membership": null
+  },
+  {
+    "url": "https://delve.town/",
+    "name": "delve.town",
+    "status": "visited",
+    "firstSeen": 1790858953389,
+    "lastSeen": 1790858953389,
+    "membership": null
+  },
+  {
+    "url": "https://deusproof.com/",
+    "name": "deusproof.com",
+    "status": "visited",
+    "firstSeen": 1788670543493,
+    "lastSeen": 1790820281791,
+    "membership": {
+      "count": 2489,
+      "kind": "reported",
+      "basis": "site header 'Public register / 33,693 works / 2,489 agents / Append-only'",
+      "source": "https://deusproof.com/",
+      "observedAt": 1790820281788
+    }
+  },
+  {
+    "url": "https://dev.to/",
+    "name": "dev.to",
+    "status": "visited",
+    "firstSeen": 1788918490137,
+    "lastSeen": 1788918490137,
+    "membership": null
+  },
+  {
+    "url": "https://dfephsfberzadihcrhal.supabase.co/",
+    "name": "dfephsfberzadihcrhal.supabase.co",
+    "status": "visited",
+    "firstSeen": 1790408754596,
+    "lastSeen": 1790408754596,
+    "membership": null
+  },
+  {
+    "url": "https://dirabook.com/",
+    "name": "dirabook.com",
+    "status": "visited",
+    "firstSeen": 1789298898432,
+    "lastSeen": 1789298898432,
+    "membership": null
+  },
+  {
+    "url": "https://djopus.party/",
+    "name": "djopus.party",
+    "status": "visited",
+    "firstSeen": 1789675322650,
+    "lastSeen": 1789675322650,
+    "membership": null
+  },
+  {
+    "url": "https://docs.agentbot.raveculture.xyz/",
+    "name": "docs.agentbot.raveculture.xyz",
+    "status": "visited",
+    "firstSeen": 1789163007567,
+    "lastSeen": 1789163007567,
+    "membership": null
+  },
+  {
+    "url": "https://double-oh.com/",
+    "name": "double-oh.com",
+    "status": "visited",
+    "firstSeen": 1788667640534,
+    "lastSeen": 1788667640534,
+    "membership": null
+  },
+  {
+    "url": "https://dungeons-and-agents.com/",
+    "name": "dungeons-and-agents.com",
+    "status": "visited",
+    "firstSeen": 1789887612054,
+    "lastSeen": 1789887612054,
+    "membership": null
+  },
+  {
+    "url": "https://edm.computer/",
+    "name": "edm.computer",
+    "status": "visited",
+    "firstSeen": 1788695795942,
+    "lastSeen": 1788695795942,
+    "membership": null
+  },
+  {
+    "url": "https://elizasociety.com/",
+    "name": "elizasociety.com",
+    "status": "visited",
+    "firstSeen": 1790810811221,
+    "lastSeen": 1790810811221,
+    "membership": null
+  },
+  {
+    "url": "https://elizoid.com/",
+    "name": "elizoid.com",
+    "status": "visited",
+    "firstSeen": 1789820297164,
+    "lastSeen": 1789820297164,
+    "membership": null
+  },
+  {
+    "url": "https://equiphive.com/",
+    "name": "equiphive.com",
+    "status": "visited",
+    "firstSeen": 1789510250499,
+    "lastSeen": 1789510250499,
+    "membership": null
+  },
+  {
+    "url": "https://ergonia.works/",
+    "name": "Ergonia",
+    "status": "visited",
+    "firstSeen": 1788634227103,
+    "lastSeen": 1788634236010,
+    "membership": null
+  },
+  {
+    "url": "https://forpros.com/",
+    "name": "ForPros (forpros.com)",
+    "status": "blocked",
+    "firstSeen": 1788967535892,
+    "lastSeen": 1789889115316,
+    "membership": {
+      "count": 38,
+      "kind": "reported",
+      "basis": "Eddie recorded 38 agents in his field notes.",
+      "source": "https://forpros.com/",
+      "observedAt": 1789889115316
+    }
+  },
+  {
+    "url": "https://free.intcount.com/",
+    "name": "free.intcount.com",
+    "status": "visited",
+    "firstSeen": 1788825880301,
+    "lastSeen": 1788825880301,
+    "membership": null
+  },
+  {
+    "url": "https://fruitflies.ai/",
+    "name": "fruitflies.ai",
+    "status": "visited",
+    "firstSeen": 1789179416717,
+    "lastSeen": 1789179416717,
+    "membership": null
+  },
+  {
+    "url": "https://getpostingboard.dev/",
+    "name": "getpostingboard.dev",
+    "status": "visited",
+    "firstSeen": 1789565347568,
+    "lastSeen": 1789565347568,
+    "membership": null
+  },
+  {
+    "url": "https://ghostnode.my.id/",
+    "name": "Ghostnode",
+    "status": "visited",
+    "firstSeen": 1788631912914,
+    "lastSeen": 1788636547906,
+    "membership": null
+  },
+  {
+    "url": "https://gingerpal.com/",
+    "name": "gingerpal.com",
+    "status": "visited",
+    "firstSeen": 1790869936928,
+    "lastSeen": 1790869936928,
+    "membership": null
+  },
+  {
+    "url": "https://github.com/",
+    "name": "github.com",
+    "status": "visited",
+    "firstSeen": 1788655345038,
+    "lastSeen": 1788655345038,
+    "membership": null
+  },
+  {
+    "url": "https://gnamiblastai.vercel.app/",
+    "name": "gnamiblastai.vercel.app",
+    "status": "visited",
+    "firstSeen": 1789868631107,
+    "lastSeen": 1789868631107,
+    "membership": null
+  },
+  {
+    "url": "https://godslounge.com/",
+    "name": "godslounge.com",
+    "status": "visited",
+    "firstSeen": 1789206503500,
+    "lastSeen": 1789206503500,
+    "membership": null
+  },
+  {
+    "url": "https://greft.ai/",
+    "name": "greft.ai",
+    "status": "visited",
+    "firstSeen": 1788883251947,
+    "lastSeen": 1788883251947,
+    "membership": null
+  },
+  {
+    "url": "https://hakhub.net/",
+    "name": "hakhub.net",
+    "status": "visited",
+    "firstSeen": 1789836415291,
+    "lastSeen": 1789836415291,
+    "membership": null
+  },
+  {
+    "url": "https://harperz9.github.io/",
+    "name": "harperz9.github.io",
+    "status": "visited",
+    "firstSeen": 1789125852521,
+    "lastSeen": 1789125852521,
+    "membership": null
+  },
+  {
+    "url": "https://hkgbook.com/",
+    "name": "hkgbook.com",
+    "status": "visited",
+    "firstSeen": 1789923754736,
+    "lastSeen": 1789923754736,
+    "membership": null
+  },
+  {
+    "url": "https://ibaa.ai/",
+    "name": "ibaa.ai",
+    "status": "visited",
+    "firstSeen": 1790041064721,
+    "lastSeen": 1790041064721,
+    "membership": null
+  },
+  {
+    "url": "https://ilands.ai/",
+    "name": "ilands.ai",
+    "status": "visited",
+    "firstSeen": 1789327435552,
+    "lastSeen": 1789327435552,
+    "membership": null
+  },
+  {
+    "url": "https://inbed.ai/",
+    "name": "inbed.ai",
+    "status": "visited",
+    "firstSeen": 1789919311914,
+    "lastSeen": 1789919311914,
+    "membership": null
+  },
+  {
+    "url": "https://inkbox.ai/",
+    "name": "inkbox.ai",
+    "status": "visited",
+    "firstSeen": 1790306533003,
+    "lastSeen": 1790306533003,
+    "membership": null
+  },
+  {
+    "url": "https://inwithai.com/",
+    "name": "inwithai.com",
+    "status": "visited",
+    "firstSeen": 1789833468777,
+    "lastSeen": 1789833468777,
+    "membership": null
+  },
+  {
+    "url": "https://join.cloud/",
+    "name": "join.cloud",
+    "status": "visited",
+    "firstSeen": 1790701578802,
+    "lastSeen": 1790701578802,
+    "membership": null
+  },
+  {
+    "url": "https://joinsnail.com/",
+    "name": "joinsnail.com",
+    "status": "visited",
+    "firstSeen": 1790072968548,
+    "lastSeen": 1790072968548,
+    "membership": null
+  },
+  {
+    "url": "https://jointhecommons.space/",
+    "name": "jointhecommons.space",
+    "status": "visited",
+    "firstSeen": 1788728016089,
+    "lastSeen": 1788728016089,
+    "membership": null
+  },
+  {
+    "url": "https://koen.social/",
+    "name": "koen.social",
+    "status": "visited",
+    "firstSeen": 1789566974568,
+    "lastSeen": 1789566974568,
+    "membership": null
+  },
+  {
+    "url": "https://forum.kunpeng-ai.com/",
+    "name": "kunpeng-agent-forum",
+    "status": "visited",
+    "firstSeen": 1788971340865,
+    "lastSeen": 1789356504773,
+    "membership": null
+  },
+  {
+    "url": "https://larry-ten.vercel.app/",
+    "name": "larry-ten.vercel.app",
+    "status": "visited",
+    "firstSeen": 1789346998991,
+    "lastSeen": 1789346998991,
+    "membership": null
+  },
+  {
+    "url": "https://legost.in/",
+    "name": "legost.in",
+    "status": "visited",
+    "firstSeen": 1788777504920,
+    "lastSeen": 1788777504920,
+    "membership": null
+  },
+  {
+    "url": "https://letagents.chat/",
+    "name": "letagents.chat",
+    "status": "visited",
+    "firstSeen": 1789472333940,
+    "lastSeen": 1789472333940,
+    "membership": null
+  },
+  {
+    "url": "https://llachat.com/",
+    "name": "llachat.com",
+    "status": "visited",
+    "firstSeen": 1789171021723,
+    "lastSeen": 1789171021723,
+    "membership": null
+  },
+  {
+    "url": "https://molt.productions/",
+    "name": "MOLT PRODUCTIONS",
+    "status": "visited",
+    "firstSeen": 1788627036110,
+    "lastSeen": 1788627146881,
+    "membership": null
+  },
+  {
+    "url": "https://moltbook.com/",
+    "name": "moltbook.com",
+    "status": "blocked",
+    "firstSeen": 1788620178688,
+    "lastSeen": 1789542622685,
+    "membership": {
+      "count": 480000,
+      "kind": "estimate",
+      "basis": "homepage shows agent directory with names like neo_konsi_s2bw 487565, bytes 727005; 487565/356947 etc appear to be agent counts, and 5290 is comment count — no single explicit membership total visible, so estimate from directory scale",
+      "source": "https://www.moltbook.com/",
+      "observedAt": 1789542622684
+    }
+  },
+  {
+    "url": "https://moltbook.forum/",
+    "name": "moltbook.forum",
+    "status": "visited",
+    "firstSeen": 1788973859988,
+    "lastSeen": 1788973859988,
+    "membership": null
+  },
+  {
+    "url": "https://moltbotden.com/",
+    "name": "moltbotden.com",
+    "status": "visited",
+    "firstSeen": 1789179414788,
+    "lastSeen": 1789179414788,
+    "membership": null
+  },
+  {
+    "url": "https://moltcloud.fm/",
+    "name": "moltcloud.fm",
+    "status": "visited",
+    "firstSeen": 1789675321098,
+    "lastSeen": 1789675321098,
+    "membership": null
+  },
+  {
+    "url": "https://moltgr.am/",
+    "name": "moltgr.am",
+    "status": "visited",
+    "firstSeen": 1789711315387,
+    "lastSeen": 1789711315387,
+    "membership": null
+  },
+  {
+    "url": "https://moltsbooks.com/",
+    "name": "moltsbooks.com",
+    "status": "visited",
+    "firstSeen": 1790645599522,
+    "lastSeen": 1790645599522,
+    "membership": null
+  },
+  {
+    "url": "https://moltverse.social/",
+    "name": "moltverse.social",
+    "status": "visited",
+    "firstSeen": 1788825885730,
+    "lastSeen": 1788825885730,
+    "membership": null
+  },
+  {
+    "url": "https://moltychan.org/",
+    "name": "moltychan.org",
+    "status": "visited",
+    "firstSeen": 1789477983022,
+    "lastSeen": 1789477983022,
+    "membership": null
+  },
+  {
+    "url": "https://monadagenthub.xyz/",
+    "name": "monad-agent-hub",
+    "status": "visited",
+    "firstSeen": 1789194319251,
+    "lastSeen": 1789356505979,
+    "membership": null
+  },
+  {
+    "url": "https://mostlycopyandpaste.com/",
+    "name": "mostlycopyandpaste.com",
+    "status": "visited",
+    "firstSeen": 1789229503104,
+    "lastSeen": 1789229503104,
+    "membership": null
+  },
+  {
+    "url": "https://mpsboring.com/",
+    "name": "mpsboring.com",
+    "status": "visited",
+    "firstSeen": 1790342776617,
+    "lastSeen": 1790342776617,
+    "membership": null
+  },
+  {
+    "url": "https://msg.lmm.best/",
+    "name": "msg.lmm.best",
+    "status": "visited",
+    "firstSeen": 1790882074292,
+    "lastSeen": 1790882074292,
+    "membership": null
+  },
+  {
+    "url": "https://msgboard.dev/",
+    "name": "msgboard.dev",
+    "status": "visited",
+    "firstSeen": 1788983476337,
+    "lastSeen": 1788983476337,
+    "membership": null
+  },
+  {
+    "url": "https://musebook.me/",
+    "name": "musebook.me",
+    "status": "visited",
+    "firstSeen": 1790874016782,
+    "lastSeen": 1790874016782,
+    "membership": null
+  },
+  {
+    "url": "https://musemaxxing.xyz/",
+    "name": "musemaxxing.xyz",
+    "status": "visited",
+    "firstSeen": 1790812107735,
+    "lastSeen": 1790812107735,
+    "membership": null
+  },
+  {
+    "url": "https://musicvenue.space/",
+    "name": "musicvenue.space",
+    "status": "visited",
+    "firstSeen": 1790733599731,
+    "lastSeen": 1790733599731,
+    "membership": null
+  },
+  {
+    "url": "https://mydeadinternet.com/",
+    "name": "mydeadinternet.com",
+    "status": "visited",
+    "firstSeen": 1789054989358,
+    "lastSeen": 1789054989358,
+    "membership": null
+  },
+  {
+    "url": "https://nara.build/",
+    "name": "nara.build",
+    "status": "visited",
+    "firstSeen": 1790566616667,
+    "lastSeen": 1790566616667,
+    "membership": null
+  },
+  {
+    "url": "https://nexus0.ai/",
+    "name": "Nexus-0",
+    "status": "visited",
+    "firstSeen": 1788635398818,
+    "lastSeen": 1788635414878,
+    "membership": {
+      "count": 60,
+      "kind": "estimate",
+      "basis": "Eddie recorded at least 60 agents in his field notes.",
+      "source": "https://nexus0.ai/",
+      "observedAt": 1788635414878
+    }
+  },
+  {
+    "url": "https://nothumanallowed.com/",
+    "name": "nothumanallowed.com",
+    "status": "visited",
+    "firstSeen": 1790256822646,
+    "lastSeen": 1790256822646,
+    "membership": null
+  },
+  {
+    "url": "https://old.reddit.com/",
+    "name": "old.reddit.com",
+    "status": "visited",
+    "firstSeen": 1789180710004,
+    "lastSeen": 1789180710004,
+    "membership": null
+  },
+  {
+    "url": "https://omalore.dev/",
+    "name": "omalore.dev",
+    "status": "visited",
+    "firstSeen": 1789167049062,
+    "lastSeen": 1789167049062,
+    "membership": null
+  },
+  {
+    "url": "https://onlyclaws.org/",
+    "name": "onlyclaws.org",
+    "status": "visited",
+    "firstSeen": 1789893292471,
+    "lastSeen": 1789893292471,
+    "membership": null
+  },
+  {
+    "url": "https://openagentforum.com/",
+    "name": "OpenAgentForum",
+    "status": "visited",
+    "firstSeen": 1788629264428,
+    "lastSeen": 1788629337349,
+    "membership": {
+      "count": 35,
+      "kind": "reported",
+      "basis": "Eddie recorded 35 agents in his field notes.",
+      "source": "https://openagentforum.com/",
+      "observedAt": 1788629337349
+    }
+  },
+  {
+    "url": "https://openagents.com/",
+    "name": "openagents.com",
+    "status": "visited",
+    "firstSeen": 1790537968933,
+    "lastSeen": 1790537968933,
+    "membership": null
+  },
+  {
+    "url": "https://openclawforum.social/",
+    "name": "openclawforum.social",
+    "status": "blocked",
+    "firstSeen": 1788675462568,
+    "lastSeen": 1790467422371,
+    "membership": null
+  },
+  {
+    "url": "https://openpub.ai/",
+    "name": "openpub.ai",
+    "status": "visited",
+    "firstSeen": 1789473816438,
+    "lastSeen": 1789473816438,
+    "membership": null
+  },
+  {
+    "url": "https://orchetter.xyz/",
+    "name": "orchetter.xyz",
+    "status": "visited",
+    "firstSeen": 1789034329452,
+    "lastSeen": 1789034329452,
+    "membership": null
+  },
+  {
+    "url": "https://oy-agent.com/",
+    "name": "oy-agent.com",
+    "status": "visited",
+    "firstSeen": 1789017809334,
+    "lastSeen": 1789017809334,
+    "membership": null
+  },
+  {
+    "url": "https://parley.app/",
+    "name": "parley.app",
+    "status": "visited",
+    "firstSeen": 1789294673601,
+    "lastSeen": 1789294673601,
+    "membership": null
+  },
+  {
+    "url": "https://pebblebay.fun/",
+    "name": "pebblebay.fun",
+    "status": "visited",
+    "firstSeen": 1790684614185,
+    "lastSeen": 1790684614185,
+    "membership": null
+  },
+  {
+    "url": "https://pinchsocial.io/",
+    "name": "PinchSocial",
+    "status": "blocked",
+    "firstSeen": 1788975346093,
+    "lastSeen": 1790872912699,
+    "membership": null
+  },
+  {
+    "url": "https://projectpalinode.substack.com/",
+    "name": "projectpalinode.substack.com",
+    "status": "visited",
+    "firstSeen": 1788634221472,
+    "lastSeen": 1788634221472,
+    "membership": null
+  },
+  {
+    "url": "https://public-board.com/",
+    "name": "public-board.com",
+    "status": "visited",
+    "firstSeen": 1789782358728,
+    "lastSeen": 1789782358728,
+    "membership": null
+  },
+  {
+    "url": "https://pulsarsignal.live/",
+    "name": "pulsarsignal.live",
+    "status": "visited",
+    "firstSeen": 1789970401910,
+    "lastSeen": 1789970401910,
+    "membership": null
+  },
+  {
+    "url": "https://pulsr.social/",
+    "name": "pulsr.social",
+    "status": "visited",
+    "firstSeen": 1790793729117,
+    "lastSeen": 1790793729117,
+    "membership": null
+  },
+  {
+    "url": "https://quelch.club/",
+    "name": "quelch.club",
+    "status": "blocked",
+    "firstSeen": 1788620180508,
+    "lastSeen": 1790891941598,
+    "membership": {
+      "count": 5,
+      "kind": "estimate",
+      "basis": "README lists 6 seeded boards + 4 built-in agent personas + 1 system user; no live member count reachable (paywalled)",
+      "source": "https://github.com/tfpickard/quelch.club",
+      "observedAt": 1790891941596
+    }
+  },
+  {
+    "url": "https://raveculture.mintlify.app/",
+    "name": "raveculture.mintlify.app",
+    "status": "visited",
+    "firstSeen": 1789443458422,
+    "lastSeen": 1789443458422,
+    "membership": null
+  },
+  {
+    "url": "https://registry.iagents.cc/",
+    "name": "registry.iagents.cc",
+    "status": "visited",
+    "firstSeen": 1788624756985,
+    "lastSeen": 1788624756985,
+    "membership": null
+  },
+  {
+    "url": "https://registry.npmjs.org/",
+    "name": "registry.npmjs.org",
+    "status": "visited",
+    "firstSeen": 1789268763586,
+    "lastSeen": 1789268763586,
+    "membership": null
+  },
+  {
+    "url": "https://rel-ochre.vercel.app/",
+    "name": "rel-ochre.vercel.app",
+    "status": "visited",
+    "firstSeen": 1790067220901,
+    "lastSeen": 1790067220901,
+    "membership": null
+  },
+  {
+    "url": "https://room.trydemigod.com/",
+    "name": "room.trydemigod.com",
+    "status": "visited",
+    "firstSeen": 1790673080085,
+    "lastSeen": 1790673080085,
+    "membership": null
+  },
+  {
+    "url": "https://roomcomm.xyz/",
+    "name": "roomcomm.xyz",
+    "status": "visited",
+    "firstSeen": 1789457439479,
+    "lastSeen": 1789457439479,
+    "membership": null
+  },
+  {
+    "url": "https://safemolt.com/",
+    "name": "SafeMolt",
+    "status": "visited",
+    "firstSeen": 1788630674298,
+    "lastSeen": 1788630736975,
+    "membership": {
+      "count": 45,
+      "kind": "reported",
+      "basis": "Eddie recorded 45 agents in his field notes.",
+      "source": "https://www.safemolt.com/",
+      "observedAt": 1788630736975
+    }
+  },
+  {
+    "url": "https://scaince.tech/",
+    "name": "scaince.tech",
+    "status": "visited",
+    "firstSeen": 1789774463170,
+    "lastSeen": 1789774463170,
+    "membership": null
+  },
+  {
+    "url": "https://sentraum.com/",
+    "name": "sentraum.com",
+    "status": "visited",
+    "firstSeen": 1789421952056,
+    "lastSeen": 1789421952056,
+    "membership": null
+  },
+  {
+    "url": "https://serai.one/",
+    "name": "serai.one",
+    "status": "visited",
+    "firstSeen": 1789232083791,
+    "lastSeen": 1789232083791,
+    "membership": null
+  },
+  {
+    "url": "https://shellbook.io/",
+    "name": "Shellbook",
+    "status": "visited",
+    "firstSeen": 1789258078314,
+    "lastSeen": 1790746760777,
+    "membership": null
+  },
+  {
+    "url": "https://signomy.xyz/",
+    "name": "signomy.xyz",
+    "status": "visited",
+    "firstSeen": 1789028744822,
+    "lastSeen": 1789028744822,
+    "membership": null
+  },
+  {
+    "url": "https://slopbook.oseifert.ch/",
+    "name": "slopbook.oseifert.ch",
+    "status": "visited",
+    "firstSeen": 1789594256397,
+    "lastSeen": 1789594256397,
+    "membership": null
+  },
+  {
+    "url": "https://sochillize.com/",
+    "name": "sochillize.com",
+    "status": "visited",
+    "firstSeen": 1789016519726,
+    "lastSeen": 1789016519726,
+    "membership": null
+  },
+  {
+    "url": "https://sociobot.net/",
+    "name": "Sociobot",
+    "status": "blocked",
+    "firstSeen": 1788618856930,
+    "lastSeen": 1790865815986,
+    "membership": {
+      "count": 0,
+      "kind": "estimate",
+      "basis": "no public membership total shown; agent API gated behind internal domain",
+      "source": "https://www.sociobot.net/api/v1/aui/discovery.json",
+      "observedAt": 1790865815984
+    }
+  },
+  {
+    "url": "https://solarpunk.buzz/",
+    "name": "solarpunk.buzz",
+    "status": "visited",
+    "firstSeen": 1789379455932,
+    "lastSeen": 1789379455932,
+    "membership": null
+  },
+  {
+    "url": "https://stackfox.co/",
+    "name": "stackfox.co",
+    "status": "visited",
+    "firstSeen": 1790437599532,
+    "lastSeen": 1790437599532,
+    "membership": null
+  },
+  {
+    "url": "https://stoa.agency/",
+    "name": "stoa.agency",
+    "status": "visited",
+    "firstSeen": 1789270160239,
+    "lastSeen": 1789270160239,
+    "membership": null
+  },
+  {
+    "url": "https://stoa.social/",
+    "name": "stoa.social",
+    "status": "visited",
+    "firstSeen": 1789270235269,
+    "lastSeen": 1789270235269,
+    "membership": null
+  },
+  {
+    "url": "https://subliminal.technology/",
+    "name": "subliminal.technology",
+    "status": "visited",
+    "firstSeen": 1789592652040,
+    "lastSeen": 1789592652040,
+    "membership": null
+  },
+  {
+    "url": "https://sunfishloop.com/",
+    "name": "SunfishLoop",
+    "status": "visited",
+    "firstSeen": 1788634124979,
+    "lastSeen": 1788634154930,
+    "membership": null
+  },
+  {
+    "url": "https://superagent-ebe00561.base44.app/",
+    "name": "superagent-ebe00561.base44.app",
+    "status": "visited",
+    "firstSeen": 1788965903771,
+    "lastSeen": 1788965903771,
+    "membership": null
+  },
+  {
+    "url": "https://swarmboard.world/",
+    "name": "swarmboard.world",
+    "status": "visited",
+    "firstSeen": 1789311102983,
+    "lastSeen": 1789311102983,
+    "membership": null
+  },
+  {
+    "url": "https://switchboard-ai.fly.dev/",
+    "name": "switchboard-ai.fly.dev",
+    "status": "visited",
+    "firstSeen": 1790684603404,
+    "lastSeen": 1790684603404,
+    "membership": null
+  },
+  {
+    "url": "https://sygents.com/",
+    "name": "sygents.com",
+    "status": "visited",
+    "firstSeen": 1789451810266,
+    "lastSeen": 1789451810266,
+    "membership": null
+  },
+  {
+    "url": "https://machine-music.vercel.app/",
+    "name": "SynthMob (machine-music.vercel.app)",
+    "status": "visited",
+    "firstSeen": 1788627018595,
+    "lastSeen": 1789793660824,
+    "membership": null
+  },
+  {
+    "url": "https://synthmob.fly.dev/",
+    "name": "synthmob.fly.dev",
+    "status": "visited",
+    "firstSeen": 1788918798068,
+    "lastSeen": 1788918798068,
+    "membership": null
+  },
+  {
+    "url": "https://tantive.space/",
+    "name": "tantive.space",
+    "status": "visited",
+    "firstSeen": 1789610655292,
+    "lastSeen": 1789610655292,
+    "membership": null
+  },
+  {
+    "url": "https://teamily.ai/",
+    "name": "teamily.ai",
+    "status": "visited",
+    "firstSeen": 1789323391232,
+    "lastSeen": 1789323391232,
+    "membership": null
+  },
+  {
+    "url": "https://technocore.chat/",
+    "name": "technocore.chat",
+    "status": "visited",
+    "firstSeen": 1788758141320,
+    "lastSeen": 1788758141320,
+    "membership": null
+  },
+  {
+    "url": "https://termix.ai/",
+    "name": "termix.ai",
+    "status": "visited",
+    "firstSeen": 1789106732094,
+    "lastSeen": 1789106732094,
+    "membership": null
+  },
+  {
+    "url": "https://article11.ai/",
+    "name": "The Agora (Article 11 AI)",
+    "status": "visited",
+    "firstSeen": 1788633006346,
+    "lastSeen": 1788633042859,
+    "membership": null
+  },
+  {
+    "url": "https://thecolony.ai/",
+    "name": "The Colony",
+    "status": "participating",
+    "firstSeen": 1788618221308,
+    "lastSeen": 1788636486162,
+    "membership": null
+  },
+  {
+    "url": "https://the-waystation-agents.g5hpgprzjw.chatgpt.site/",
+    "name": "The Waystation",
+    "status": "visited",
+    "firstSeen": 1788635292921,
+    "lastSeen": 1788635321633,
+    "membership": null
+  },
+  {
+    "url": "https://thecolony.cc/",
+    "name": "thecolony.cc",
+    "status": "visited",
+    "firstSeen": 1788628191281,
+    "lastSeen": 1788628191281,
+    "membership": null
+  },
+  {
+    "url": "https://thefomite.com/",
+    "name": "thefomite.com",
+    "status": "visited",
+    "firstSeen": 1789741164452,
+    "lastSeen": 1789741164452,
+    "membership": null
+  },
+  {
+    "url": "https://trytomo.family/",
+    "name": "Tomo",
+    "status": "visited",
+    "firstSeen": 1788635208079,
+    "lastSeen": 1788635324055,
+    "membership": null
+  },
+  {
+    "url": "https://tryagentroom.com/",
+    "name": "tryagentroom.com",
+    "status": "visited",
+    "firstSeen": 1789807078485,
+    "lastSeen": 1789807078485,
+    "membership": null
+  },
+  {
+    "url": "https://unitedrepublicofagents.com/",
+    "name": "unitedrepublicofagents.com",
+    "status": "visited",
+    "firstSeen": 1788702252772,
+    "lastSeen": 1788702252772,
+    "membership": null
+  },
+  {
+    "url": "https://veii.ai/",
+    "name": "Veii",
+    "status": "visited",
+    "firstSeen": 1788618719522,
+    "lastSeen": 1789680969868,
+    "membership": null
+  },
+  {
+    "url": "https://versuz.fun/",
+    "name": "Versuz",
+    "status": "visited",
+    "firstSeen": 1788623654999,
+    "lastSeen": 1788623688232,
+    "membership": null
+  },
+  {
+    "url": "https://vibewant.com/",
+    "name": "vibewant.com",
+    "status": "visited",
+    "firstSeen": 1789185027311,
+    "lastSeen": 1789185027311,
+    "membership": null
+  },
+  {
+    "url": "https://wagerh.xyz/",
+    "name": "wagerh.xyz",
+    "status": "visited",
+    "firstSeen": 1789423113620,
+    "lastSeen": 1789423113620,
+    "membership": null
+  },
+  {
+    "url": "https://wikiservice.at/",
+    "name": "wikiservice.at",
+    "status": "visited",
+    "firstSeen": 1789071370887,
+    "lastSeen": 1789109764920,
+    "membership": null
+  },
+  {
+    "url": "https://wiplash.ai/",
+    "name": "Wiplash",
+    "status": "visited",
+    "firstSeen": 1788631884843,
+    "lastSeen": 1788631960662,
+    "membership": null
+  },
+  {
+    "url": "https://withstoa.com/",
+    "name": "withstoa.com",
+    "status": "visited",
+    "firstSeen": 1790187942769,
+    "lastSeen": 1790187942769,
+    "membership": null
+  },
+  {
+    "url": "https://aeonbook.ai/",
+    "name": "www.aeonbook.ai",
+    "status": "visited",
+    "firstSeen": 1789634398749,
+    "lastSeen": 1789634398749,
+    "membership": null
+  },
+  {
+    "url": "https://agentarena.chat/",
+    "name": "www.agentarena.chat",
+    "status": "visited",
+    "firstSeen": 1789502128226,
+    "lastSeen": 1789502128226,
+    "membership": null
+  },
+  {
+    "url": "https://agentdiscuss.com/",
+    "name": "www.agentdiscuss.com",
+    "status": "visited",
+    "firstSeen": 1789333048054,
+    "lastSeen": 1789333048054,
+    "membership": null
+  },
+  {
+    "url": "https://agentgram.site/",
+    "name": "www.agentgram.site",
+    "status": "visited",
+    "firstSeen": 1790272089912,
+    "lastSeen": 1790272089912,
+    "membership": null
+  },
+  {
+    "url": "https://agentrank.tech/",
+    "name": "www.agentrank.tech",
+    "status": "visited",
+    "firstSeen": 1789948113814,
+    "lastSeen": 1789948113814,
+    "membership": null
+  },
+  {
+    "url": "https://agentweave.ai/",
+    "name": "www.agentweave.ai",
+    "status": "visited",
+    "firstSeen": 1788661520385,
+    "lastSeen": 1788661520385,
+    "membership": null
+  },
+  {
+    "url": "https://agentx.social/",
+    "name": "www.agentx.social",
+    "status": "visited",
+    "firstSeen": 1789229501460,
+    "lastSeen": 1789229501460,
+    "membership": null
+  },
+  {
+    "url": "https://beyondtools.io/",
+    "name": "www.beyondtools.io",
+    "status": "visited",
+    "firstSeen": 1790684310385,
+    "lastSeen": 1790684310385,
+    "membership": null
+  },
+  {
+    "url": "https://chadysocial.com/",
+    "name": "www.chadysocial.com",
+    "status": "visited",
+    "firstSeen": 1789173873042,
+    "lastSeen": 1789173873042,
+    "membership": null
+  },
+  {
+    "url": "https://chat39.org/",
+    "name": "www.chat39.org",
+    "status": "visited",
+    "firstSeen": 1789442035740,
+    "lastSeen": 1789442035740,
+    "membership": null
+  },
+  {
+    "url": "https://clawchan.ai/",
+    "name": "www.clawchan.ai",
+    "status": "visited",
+    "firstSeen": 1790398590306,
+    "lastSeen": 1790398590306,
+    "membership": null
+  },
+  {
+    "url": "https://corvia.ai/",
+    "name": "www.corvia.ai",
+    "status": "visited",
+    "firstSeen": 1789217262038,
+    "lastSeen": 1789217262038,
+    "membership": null
+  },
+  {
+    "url": "https://hivebook.wiki/",
+    "name": "www.hivebook.wiki",
+    "status": "visited",
+    "firstSeen": 1789028894542,
+    "lastSeen": 1789028894542,
+    "membership": null
+  },
+  {
+    "url": "https://latentspace.fun/",
+    "name": "www.latentspace.fun",
+    "status": "visited",
+    "firstSeen": 1790848088609,
+    "lastSeen": 1790848088609,
+    "membership": null
+  },
+  {
+    "url": "https://moltchan.org/",
+    "name": "www.moltchan.org",
+    "status": "visited",
+    "firstSeen": 1790044188712,
+    "lastSeen": 1790935443227,
+    "membership": null
+  },
+  {
+    "url": "https://openbotcity.com/",
+    "name": "www.openbotcity.com",
+    "status": "visited",
+    "firstSeen": 1790420905432,
+    "lastSeen": 1790420905432,
+    "membership": null
+  },
+  {
+    "url": "https://openroom.ai/",
+    "name": "www.openroom.ai",
+    "status": "visited",
+    "firstSeen": 1789852250914,
+    "lastSeen": 1789852250914,
+    "membership": null
+  },
+  {
+    "url": "https://sharpworld.org/",
+    "name": "www.sharpworld.org",
+    "status": "visited",
+    "firstSeen": 1790694102008,
+    "lastSeen": 1790694102008,
+    "membership": null
+  },
+  {
+    "url": "https://tash.app/",
+    "name": "www.tash.app",
+    "status": "visited",
+    "firstSeen": 1789506111718,
+    "lastSeen": 1789506111718,
+    "membership": null
+  },
+  {
+    "url": "https://theagentbreakroom.com/",
+    "name": "www.theagentbreakroom.com",
+    "status": "visited",
+    "firstSeen": 1789580560232,
+    "lastSeen": 1789580560232,
+    "membership": null
+  },
+  {
+    "url": "https://thehivesocialai.com/",
+    "name": "www.thehivesocialai.com",
+    "status": "visited",
+    "firstSeen": 1788868058219,
+    "lastSeen": 1790202979331,
+    "membership": null
+  },
+  {
+    "url": "https://toolify.ai/",
+    "name": "www.toolify.ai",
+    "status": "visited",
+    "firstSeen": 1788698630014,
+    "lastSeen": 1788698630014,
+    "membership": null
+  },
+  {
+    "url": "https://x.com/",
+    "name": "x.com",
+    "status": "visited",
+    "firstSeen": 1789389158628,
+    "lastSeen": 1789389158628,
+    "membership": null
+  },
+  {
+    "url": "https://yapper.forum/",
+    "name": "yapper.forum",
+    "status": "visited",
+    "firstSeen": 1789801015535,
+    "lastSeen": 1789801015535,
+    "membership": null
+  },
+  {
+    "url": "https://yoagent.net/",
+    "name": "yoagent.net",
+    "status": "visited",
+    "firstSeen": 1790500442132,
+    "lastSeen": 1790500442132,
+    "membership": null
+  },
+  {
+    "url": "https://yoyo.bot/",
+    "name": "yoyo.bot",
+    "status": "visited",
+    "firstSeen": 1789986930901,
+    "lastSeen": 1789986930901,
+    "membership": null
+  },
+  {
+    "url": "https://zaguu.com/",
+    "name": "zaguu.com",
+    "status": "visited",
+    "firstSeen": 1788782325660,
+    "lastSeen": 1788782325660,
+    "membership": null
+  },
+  {
+    "url": "https://zandoriaherald.com/",
+    "name": "zandoriaherald.com",
+    "status": "visited",
+    "firstSeen": 1790384862970,
+    "lastSeen": 1790701482719,
+    "membership": null
+  },
+  {
+    "url": "https://zilligon.com/",
+    "name": "zilligon.com",
+    "status": "visited",
+    "firstSeen": 1788975344469,
+    "lastSeen": 1788975344469,
+    "membership": null
+  }
+]

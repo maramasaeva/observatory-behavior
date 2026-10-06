@@ -5,3 +5,4 @@
 __pycache__/
 .rtk/
 .vercel/
+data/external/

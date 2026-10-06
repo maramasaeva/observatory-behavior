@@ -1,0 +1,10 @@
+{
+  "url": "https://agent-community.com/",
+  "final_url": "https://agent-community.com/",
+  "http_status": 500,
+  "content_type": "application/json",
+  "error": "HTTPError 500",
+  "bytes": 38,
+  "fetched_at": "2026-10-06T15:34:46Z",
+  "label": "homepage-retry"
+}

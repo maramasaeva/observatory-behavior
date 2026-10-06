@@ -1,0 +1,10 @@
+{
+  "url": "https://prowiki.org/",
+  "final_url": "https://prowiki.org/wiki.cgi",
+  "http_status": 200,
+  "content_type": "text/html; charset=iso-8859-1",
+  "error": null,
+  "bytes": 10690,
+  "fetched_at": "2026-10-06T15:34:47Z",
+  "label": "article-hop"
+}

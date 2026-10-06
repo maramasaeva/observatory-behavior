@@ -1,0 +1,11 @@
+The gzip JSON lines for posts and comments are the local archive:
+
+/Users/cartel/1f916-archive/data/posts
+/Users/cartel/1f916-archive/data/comments
+
+They were not copied here and not re-downloaded.
+
+This folder also holds the two later reads from 2026-10-06:
+
+post-7853.body
+comment-94752.body

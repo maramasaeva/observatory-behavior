@@ -1,0 +1,196 @@
+<HTML>
+<HEAD>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <TITLE>WikiServiceAt: Willkommen bei wikiservice.at</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" link="#0000ff" vlink="#0000cc" alink="#9999ff">
+<TABLE width="100%" border="0" cellpadding="5" cellspacing="0">
+  <TR>
+    <TD BGCOLOR="#6699cc" rowspan="3" valign="top" width="1%">
+      <table bgcolor="#ffffff" cellpadding="3" border=0><tr><td><a href='wiki.cgi?action=HomePage'><img src='/image/wikinet60p10.jpg' alt='[Home]' border='0'></a></td></tr>
+      </table>
+    </TD>
+    <TD COLSPAN=2 nowrap>
+      <B>wikiservice.at</B><img src="/image/p.gif" border=0 width=40 height=1>
+      <B>Der Spezialist für deutschsprachige WikiWeb-Systeme</B>
+    </TD>
+  </TR>
+  <tr bgcolor="#6699cc">
+    <FORM ACTION="wiki.cgi"><td align="right"><INPUT TYPE=TEXT SIZE=20 NAME="search">&nbsp;<INPUT TYPE=SUBMIT VALUE="Suchen"></td></FORM>
+  </tr>
+  <tr bgcolor="#6699cc">
+    <td align="left" valign="bottom">
+      <table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000" width=100% align="left"><tr><td>
+        <table cellspacing=1 cellpadding=3 border=0 width=100% align="center"><tr bgcolor="#e7e7e7">
+          <td align="center" nowrap><a href="wiki.cgi?StartSeite">StartSeite</a></td>
+          <td align="center" nowrap><a href="http://www.wikiweb.at/wiki.cgi">Technologie</a></td>
+          <td align="center" nowrap><a href="wiki.cgi?VolltextSuche">VolltextSuche</a></td>
+          <td align="center" nowrap><a href="http://www.wikiservice.at/probier/wiki.cgi">ProbierWiki</a></td>
+          <td align="center" nowrap><a href="http://www.wikiservice.at/dse/wiki.cgi?WikiQuizz">WikiQuizz</a></td>
+          <td align="center" nowrap><a href="http://www.wikiweb.at/wiki.cgi?WikiWebCommunities">WikiWorld</a></td>
+          <td align="center" nowrap><a href="http://www.wikiservice.at/support/wiki.cgi">Support & FAQ</a></td>
+        </tr></table>
+      </td></tr></table>
+    </td>
+  </tr>
+</TABLE>
+<TABLE CELLPADDING=5 CELLSPACING=0 BORDER=0 WIDTH="100%">
+  <TR VALIGN=TOP ALIGN=LEFT>
+     <TD bgcolor="#ffffff" width=128>
+
+  <table cellpadding=0 cellspacing=0 border=0 bgcolor="#ffffff" width="128"><tr><td>
+
+  <table cellpadding=1 cellspacing=0 border=1 bgcolor="#e7e7e7" width="100%">
+      <tr bgcolor="#6699cc">
+        <td align="center"><b><font color="#ffffff">WikiWeb</font></b></td>
+      </tr>
+      <tr><td>
+        <table cellspacing=0 cellpadding=2 width=100% border=0><tr><td><font size="-1">
+	  <B>Produkte</B><BR>
+	  &nbsp;&nbsp;<A HREF="wiki.cgi?BestellFormular">BestellFormular</A><BR>
+	  &nbsp;&nbsp;<A HREF="wiki.cgi?ProduktInformationen">ProduktInformationen</A><BR>
+	  &nbsp;&nbsp;<A HREF="wiki.cgi?PreisInformationen">PreisInformationen</A><BR>
+	  &nbsp;&nbsp;<A HREF="wiki.cgi?AllgemeineGesch&auml;ftsBedingungen">AGB</A><BR>
+	  <img src="/image/p.gif" border="0" width="1" height="5"><br>
+	  <b>Anwendungen</b><br>
+	  &nbsp;&nbsp;<A HREF="wiki.cgi?AnwendungsBeispiele">AnwendungsBeispiele</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiweb.at/wiki.cgi?WikiWebCommunities">WikiWebCommunities</A><BR>
+	  &nbsp;&nbsp;<A HREF="wiki.cgi?WikiVerzeichnis">WikiVerzeichnis</A><BR>
+      <img src="/image/p.gif" border="0" width="1" height="5"><br>
+	  <B>Support</B><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiservice.at/support/wiki.cgi">SupportWiki</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiservice.at/support/wiki.cgi?OnlineDokumentation">OnlineDokumentation</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiservice.at/support/wiki.cgi?WikiAnregungen">WikiAnregungen</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiservice.at/support/wiki.cgi?WikiProbleme">WikiProbleme</A><BR>
+          &nbsp;&nbsp;<A HREF="wiki.cgi?ÜberUns">ÜberUns</A><BR>
+          &nbsp;&nbsp;<A HREF="wiki.cgi?Impressum">Impressum</A><BR>
+	<img src="/image/p.gif" border="0" width="1" height="5"><br>
+        </font></td></tr></table>
+      </td></tr>
+    </table>
+    <img src="/image/p.gif" border="0" width="1" height="5"><br>
+    <table cellpadding=1 cellspacing=0 border=1 bgcolor="#e7e7e7" width="128">
+      <tr bgcolor="#6699cc">
+        <td align="center"><b><font color="#ffffff">Information</font></b></td>
+      </tr>
+      <tr><td>
+    <table cellspacing=0 cellpadding=2 width=100% border=0><tr><td><font size="-1">
+ 	  <B>Technologie</B><BR>
+      &nbsp;&nbsp;<A HREF="wiki.cgi?WikiWebTechnologie">WikiWebTechnologie</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiweb.at/wiki.cgi?WikiWebVergleich">WikiWebVergleich</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiweb.at/wiki.cgi?WikiVeröffentlichungen">WikiVeröffentlichungen</A><br>
+    <img src="/image/p.gif" border="0" width="1" height="5"><br>
+	  <B>Einstiegshilfen</B><BR>
+      &nbsp;&nbsp;<A HREF="http://www.wikiweb.at/wiki.cgi?WasIstEinWikiWeb">WasIstEinWikiWeb</A><BR>
+      &nbsp;&nbsp;<A HREF="http://www.wikiservice.at/dse/wiki.cgi?WikiInEinerMinute">WikiInEinerMinute</A><BR>
+	  &nbsp;&nbsp;<A HREF="http://www.wikiservice.at/dse/wiki.cgi?WikiGlossar">WikiGlossar</A><BR>
+	<img src="/image/p.gif" border="0" width="1" height="5"><br>
+        </font></td></tr></table>
+      </td></tr>
+    </table>
+
+  </td></td></table>
+
+</TD>
+
+<td width="100%">
+<br>
+<H2><a href='wiki.cgi?search=StartSeite&amp;title=off&amp;word=on&amp;case=on&amp;bl=on' class='title' rel='nofollow'>Willkommen bei wikiservice.at</a></H2>
+<strong>Willkommen</strong> bei wikiservice.at, dem Spezialisten für die Einrichtung deutschsprachiger <a href='wiki.cgi?WikiWeb' class='body'>WikiWeb</a>-Systeme insbesondere als Kommunikationsplattformen und für den Aufbau von Online-Communities.
+<p>
+Sind sie an der <a href='wiki.cgi?WikiWebTechnologie' class='body'>WikiWebTechnologie</a> interessiert?
+<p>
+<ul>
+<li><a href='wiki.cgi?AllgemeineInformationen' class='body'>AllgemeineInformationen</a> über das <a href='wiki.cgi?WikiWeb' class='body'>WikiWeb</a></li>
+<p>
+</ul>
+Möchten Sie ein <a href='wiki.cgi?WikiWeb' class='body'>WikiWeb</a> bei uns mieten?
+<p>
+<ul>
+<li><a href='wiki.cgi?ProduktInformationen' class='body'>ProduktInformationen</a></li>
+<li><a href='wiki.cgi?PreisInformationen' class='body'>PreisInformationen</a></li>
+<li><a href='wiki.cgi?BestellFormular' class='body'>BestellFormular</a></li>
+<li><a href='http://www.wikiservice.at/support/wiki.cgi?action=HomePage' class='body'><img src='image/icon_world.gif' border='0' style='vertical-align: -4px;'> SupportWiki:action=HomePage</a> (Support für Benutzer)</li>
+<li><a href='http://www.wikiservice.at/prowiki/wiki.cgi?action=HomePage' class='body'><img src='image/icon_world.gif' border='0' style='vertical-align: -4px;'> ProWiki:action=HomePage</a> (Support für englischsprachige Benutzer)</li>
+<p>
+</ul>
+Möchten Sie sehen wie es in verschiedenen Wikis real zugeht?
+<ul>
+<li><a href='http://www.wikiservice.at/buecher/wiki.cgi?action=rc' class='body'><img src='image/icon_world.gif' border='0' style='vertical-align: -4px;'> BücherWiki:action=rc</a> (Deutsche Plattform für Bücherfreunde)</li>
+<li><a href='http://www.prowiki.org/dse/wiki.cgi?action=rc' class='body'><img src='image/icon_dse.gif' border='0' style='vertical-align: -4px;'> DseWiki:action=rc</a> (Deutsche Plattform für Softwareentwickler)</li>
+<li><a href='http://www.wikiservice.at/gruender/wiki.cgi?action=HomePage' class='body'><img src='image/icon_gruender.gif' border='0' style='vertical-align: -4px;'> GründerWiki:action=HomePage</a> (Eine Community für die Gründer von Online-Communities)</li>
+<li><a href='http://www.dorfwiki.org/wiki.cgi?action=HomePage' class='body'><img src='image/icon_DorfWiki.gif' border='0' style='vertical-align: -4px;'> DorfWiki:action=HomePage</a> (Eine deutschsprachige Community für die Idee der <em>global villages</em>)</li>
+<li><a href='http://wiki.c2.com/?RecentChanges' class='body'><img src='image/icon_c2.gif' border='0' style='vertical-align: -4px;'> WardsWiki:RecentChanges</a> (Englische Plattform für Softwareentwickler)</li>
+<p>
+</ul>
+Ein Verzeichnis offener Wiki-Communities weltweit: 
+<p>
+<ul>
+<li><a href='http://www.wikiservice.at/gruender/wiki.cgi?WikiVerzeichnis' class='body'>Deutsche und englische Wiki-Communities</a> </li>
+<p>
+<p>
+</ul>
+
+
+<hr>
+<font size=-1>Zuletzt geändert am 9. September 2026</font>
+</TD>
+
+<td>
+  <table cellpadding=0 cellspacing=0 border=0 bgcolor="#000000" width="120"><tr><td>
+    <table cellpadding=1 cellspacing=1 border=0 width="120">
+      <tr bgcolor="#6699cc">
+        <td align="center"><b><font color="#ffffff">Anmeldung</font></b></td>
+      </tr>
+      <tr bgcolor="#e7e7e7"><td>
+        <table cellspacing=2 cellpadding=0 border=0 width="100%">
+          <form method="POST" action="wiki2.cgi" enctype="application/x-www-form-urlencoded">
+          <input type="hidden" name="form_access" value="1">
+          <input type="hidden" NAME="old_plist" VALUE="StartSeite">
+          <tr><td align="left"><font size="-1">Benutzername:</font></td></tr>
+          <tr><td align="left"><font size="-1">&nbsp;&nbsp;&nbsp;&nbsp;<input type=text size=12 name="p_username"></font></td></tr>
+          <tr><td align="left"><font size="-1">Passwort:</font></td></tr>
+          <tr><td align="left"><font size="-1">&nbsp;&nbsp;&nbsp;&nbsp;<input type=password size=10 name="p_password"></font></td></tr>
+          <tr><td align="left"><font size="-1"><input type=submit name="do" value="Anmelden..."></font></td></tr>
+          </FORM>
+        </table>
+      </td></tr>
+    </table>
+  </td></rd></table>
+</td>
+
+</TR></TABLE>
+
+<BR clear=all><P>
+<TABLE width="100%" border="0" cellpadding="3" cellspacing="0">
+  <TR BGCOLOR="#6699cc" valign="center">
+    <TD height="50">
+      <b><a href="http://www.wikiweb.at/">wikiweb.at</a></b><br>
+      <font size=-1>Allgemeine Informationen zur WikiWeb-Technologie</font>
+    </TD>
+    <TD ALIGN="LEFT">
+        { 
+          <a href="http://www.wikiservice.at/buecher/wiki.cgi">BücherWiki</a>
+        | <a href="http://www.wikiservice.at/dse/wiki.cgi">DseWiki</a>
+        | <a href="http://www.wikiservice.at/gruender/wiki.cgi">GründerWiki</a>
+        | <a href="http://www.dorfwiki.org/wiki.cgi">DorfWiki</a>
+        | <a href="http://www.as-graz.org/">Alliierte Schulen Graz</a>
+        }
+    </TD>
+  </TR>
+</TABLE>
+<TABLE width="100%" border="1" cellpadding="3" cellspacing="0">
+  <TR valign="center" bgcolor="#e7e7e7">
+    <TD valign="top">
+      <FONT SIZE=-1>Powered by:<br><b>ProWikiSoftware Vs. 2.0.209 </b></FONT>
+    </TD>
+    <TD align="center">
+      <FONT SIZE=-2>
+      Kommentare und Fragen diese Website betreffend<br>
+      richten Sie am besten an den Webmaster (<A HREF="mailto:webmaster@wikiservice.at">webmaster@wikiservice</A>).
+      </FONT>
+    </TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>
